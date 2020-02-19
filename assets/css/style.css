@@ -1,0 +1,16 @@
+h1 {
+    color: red
+}
+
+.container {
+    background-color: grey;
+}
+
+#coltest {
+    background-color: green;
+}
+
+p {
+    font-size: 25px;
+    color: white;
+}
